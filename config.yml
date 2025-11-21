@@ -1,0 +1,23 @@
+title: "Aparna P Kumar"
+description: "Mechanical Engineer | Portfolio & Resume"
+author: "Aparna P Kumar"
+
+# Theme for GitHub Pages
+theme: minima
+
+# URL settings (GitHub Pages auto-detects)
+markdown: kramdown
+
+# Navigation links (optional)
+header_pages:
+  - index.md
+
+# Social links
+linkedin_username: aparna-p-kumar
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Optional: logo or profile photo
+# logo: "/assets/img/profile.jpg"
